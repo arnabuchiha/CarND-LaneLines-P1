@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. My pipeline
 
 My pipeline consisted of the following steps:
 
@@ -25,13 +25,13 @@ My pipeline consisted of the following steps:
 
 ![6th step produced the following result](https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/test_images_output/solidWhiteCurve.jpg?token=AZn9HWInhCOiBGEEo50uKy3Mx4Ig70Yyks5cBsMUwA%3D%3D)
 
-### 2. Identify potential shortcomings with your current pipeline
+### 2. Potential shortcomings with your current pipeline
 
 
 The pipeline works perfectly on the first two videos but it fails for the third video, one of the reason can be that the third video contains curved lanes.
 
 
-### 3. Suggest possible improvements to your pipeline
+### 3. Possible improvements to your pipeline
 
 1. Applying deep learning may have some improvement
 2. Expressing lines as second degree polynomials
