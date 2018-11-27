@@ -6,9 +6,6 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
-[//]: # (Image References)
-[image2]: https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/test_images_output/solidWhiteCurve.jpg?token=AZn9HWInhCOiBGEEo50uKy3Mx4Ig70Yyks5cBsMUwA%3D%3D "After applying Hough lines on original image"
 ---
 
 ### Reflection
