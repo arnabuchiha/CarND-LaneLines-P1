@@ -8,8 +8,6 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
-[image1]: https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/interms/solidWhiteCurve.jpg?token=AZn9HShoWKjuQfAjhwsGVhrOupeVXcp5ks5cBsLxwA%3D%3D "After Edge detection"
 [image2]: https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/test_images_output/solidWhiteCurve.jpg?token=AZn9HWInhCOiBGEEo50uKy3Mx4Ig70Yyks5cBsMUwA%3D%3D "After applying Hough lines on original image"
 ---
 
@@ -26,9 +24,9 @@ My pipeline consisted of the following steps:
 5. Produce the Hough Lines
 6. Finally apply the Hough Lines on the original image
 
-![5th step produced the following result][image1]
+![5th step produced the following result](https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/interms/solidWhiteCurve.jpg?token=AZn9HShoWKjuQfAjhwsGVhrOupeVXcp5ks5cBsLxwA%3D%3D)
 
-![6th step produced the following result][image2]
+![6th step produced the following result](https://raw.githubusercontent.com/arnabuchiha/CarND-LaneLines-P1/master/test_images_output/solidWhiteCurve.jpg?token=AZn9HWInhCOiBGEEo50uKy3Mx4Ig70Yyks5cBsMUwA%3D%3D)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
